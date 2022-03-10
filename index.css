@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(44, 42, 42);
+    color: rgb(43, 41, 41);
+}
+
+div{
+    width: 70%;
+    padding: 2rem 3rem;
+    background-color: bisque;
+    margin: 4rem auto;
+    border-radius: 0.5rem;
+}
+
+label{
+display: block;
+font-size: 2rem;
+}
+
+input{
+    width: 70%;
+    padding: 0.5rem 1rem;
+    border-radius: 0.2rem;
+    border: none;
+    margin: 0.3rem 0.5rem 0 0;
+}
+
+button{
+    display: block;
+    margin: 0.8rem 0 0 0;
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: rgb(62, 124, 103);
+    border-radius: 0.3rem;
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+}
